@@ -23,7 +23,9 @@ return `A${Email}`;
 }
 
 const Admin = () => {
-  return <div>שי המלך עדן רשמה רק שתדעו</div>;
+  return <div>שי המלך עדן רשמה רק שתדעו
+      <h1>שייייייייייייייייי</h1>
+  </div>;
 };
 
 export default Admin;
