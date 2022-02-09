@@ -1,0 +1,13 @@
+.NavbarDiv {
+    background-color: pink;
+    grid-area: menu;
+
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 6%;
+    flex-wrap: wrap;
+
+}
